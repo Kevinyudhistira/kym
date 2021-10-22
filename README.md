@@ -1,2 +1,2 @@
-# kym
-Hal penting
+# latihan
+ 
